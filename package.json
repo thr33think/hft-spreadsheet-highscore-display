@@ -1,0 +1,17 @@
+{
+  "name": "hft-spreadsheet-highscore-display",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -- --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mathias Maciossek <mathias@threethink.io>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "googleapis": "39"
+  }
+}
